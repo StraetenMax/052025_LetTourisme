@@ -44,7 +44,24 @@
         <mj-text align="center"><a style="color:#4d4d4d;font-size:10px;font-weight:500;line-height:12px" href="{{ mirror}}">Voir la version en ligne</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="color:#4d4d4d;font-size:10px;font-weight:500;line-height:12px;" href="{{ unsubscribe }}">Se désinscrire de la liste de diffusion</a></mj-text>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="T24-700"> Prêts pour le Bac 2025&nbsp;? On vous donne toutes les clés pour réussir&nbsp;!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section> 
+      <mj-column>
+        <mj-text padding="0 25px" mj-class="T16-400 cT0">Camille, Chargée des admissions pour le secteur tourisme, vous donne toutes les astuces pour organiser vos révisions&nbsp;!</mj-text>
+        <mj-text padding="0 25px" mj-class="T16-400 cT0">Une vraie copilote pour votre avenir professionnel&nbsp;!</mj-text>
+      </mj-column>
+    </mj-section>
     <mj-wrapper padding="20px" background-color="#ffffff">
+      <mj-section padding="0">
+        <mj-column> 
+          <mj-text mj-class="T24-700">Les conseils pour un Bac en béton</mj-text>
+          <mj-text mj-class="T16-700 cT1">Le grand jour approche à grands pas, mais pas de panique : avec une bonne préparation, vous allez tout déchirer ! Voici nos astuces pour aborder cette étape avec confiance et sérénité.</mj-text>
+        </mj-column>
+      </mj-section>
       <mj-section padding="0">
         <mj-column width="60%">
           <mj-text mj-class="T16-700 cT1">1. Organise ton planning de révision :</mj-text>
