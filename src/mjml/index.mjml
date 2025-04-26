@@ -72,13 +72,34 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-section>
+    <mj-section background-color="#ffffff">
       <mj-column width="30%">
-        <mj-image></mj-image>
+        <mj-image src="https://i.ibb.co/4j0M62F/1.jpg"></mj-image>
       </mj-column>
       <mj-column width="70%">
-        <mj-text mj-class="T16-400 cT1">Astuces bonus</mj-text>
+        <mj-text mj-class="T16-700 cT1">Astuces bonus</mj-text>
         <mj-text mj-class="T16-400 cT0">Rejoins des groupes d'études pour échanger et t'entraîner ensemble. N'hésite pas à demander de l'aide à tes profs ou à tes proches si tu bloques. Utilise les ressources en ligne pour compléter ta préparation.</mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image src="https://i.ibb.co/4j0M62F/1.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text mj-class="T16-700 cT1">Petits mantras pour la confiance en soi</mj-text>
+        <mj-text padding="0 25px" mj-class="T16-400 cT0">Je suis unique et je crois en moi.</mj-text>
+        <mj-text padding="0 25px" mj-class="T16-400 cT0">J'ai beaucoup plus de force que je le pense.</mj-text>
+        <mj-text padding="0 25px" mj-class="T16-400 cT0">Je mérite d'être aimé(e) telle que je suis.</mj-text>
+        <mj-text padding="0 25px" mj-class="T16-400 cT0">Je peux faire confiance à mon intuition.</mj-text>
+        <mj-text padding="0 25px" mj-class="T16-400 cT0">J'ose m'affirmer dans la vérité de mon être.</mj-text>
+        <mj-text padding="0 25px" mj-class="T16-400 cT0">Je suis capable de réaliser mes rêves.</mj-text>
+        <mj-text padding="0 25px" mj-class="T16-400 cT0">La vie m'aime et me soutient à chaque instant.</mj-text>
+        <mj-text padding="0 25px" mj-class="T16-400 cT0">Mes différences sont une force.</mj-text>
+        <mj-text padding="0 25px" mj-class="T16-400 cT0">Je peux prendre ma place en toute sécurité.</mj-text>
+      </mj-column>
+      <mj-column width="30%" vertical-align="middle">
+        <mj-image src="https://i.ibb.co/4j0M62F/1.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="70%" vertical-align="middle">
+        <mj-text mj-class="T16-400 cT0">Croyez en vous, restez curieux, et n'oubliez pas : le bac n'est qu'une étape, à vous d'imaginer la suite. Avec tout mon soutien, Camille.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
