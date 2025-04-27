@@ -126,5 +126,31 @@
         <mj-text mj-class="T16-400 cT0">Croyez en vous, restez curieux, et n'oubliez pas&nbsp;: le bac n'est qu'une étape, à vous d'imaginer la suite. Avec tout mon soutien, Camille.</mj-text>
       </mj-column>
     </mj-section>
+    <mj-section background-color="#1a1a1a" padding="20px 32px">
+      <mj-column width="320px">
+        <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
+        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;color:#b3b3b3" href="https://urlr.me/WS5h6U">17 Place Charles et Albert Roussel</a></mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400" text-transform="uppercase"><a style="text-decoration:none;color:#b3b3b3" href="https://urlr.me/WS5h6U">59200 Tourcoing</a></mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;font-weight:700;color:#b3b3b3;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;color:#b3b3b3;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0" align="center" mj-class=" T13-400"><a style="text-decoration:none;font-weight:700;color:#b3b3b3;" href="https://ecosup-campus.fr">www.ecosup-campus.fr</a> </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1a1a1a" padding="0">
+      <mj-column>
+        <mj-social align="center" icon-size="30px" icon-height="30px" inner-padding="20px" mode="horizontal">
+          <mj-social-element src="https://i.ibb.co/99m2HwcM/facebook-Gris.png" href="https://www.facebook.com/EcosupCamp/" target="_blank" alt="icon facebook"></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/xqhcdmtf/instagram-Gris.png" href="https://www.instagram.com/ecosup.campus/" target="_blank" alt="icon instagram"></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/9H8VZWmK/linkedin-Gris.png" href="https://www.linkedin.com/company/ecosup-campus" target="_blank" alt="icon linkedin"> </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px">
+      <mj-column width="320px">
+        <mj-text padding="0" align="center" mj-class="cT0 T10-300"><a style="color:#4d4d4d;font-size:10px;font-weight:500" href="{{ mirror}}">Voir la version en ligne</a>           </mj-text>
+        <mj-text padding="0" align="center" mj-class="cT0 T10-300">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#4d4d4d;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
+        <mj-text padding="0" align="center" mj-class="cT0 T10-300"><a style="color:#4d4d4d;font-size:10px;font-weight:500;" href="{{ unsubscribe }}">Se désinscrire de la liste de diffusion</a></mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
