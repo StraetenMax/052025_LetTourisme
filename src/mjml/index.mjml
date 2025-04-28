@@ -79,7 +79,7 @@
       <mj-section padding="0">
         <mj-column> 
           <mj-text mj-class="T24-700">Les conseils pour un Bac en béton</mj-text>
-          <mj-text mj-class="T16-700 cT1">Le grand jour approche à grands pas, mais pas de panique&nbsp;: avec une bonne préparation, vous allez tout déchirer&nbsp;! Voici nos astuces pour aborder cette étape avec confiance et sérénité.</mj-text>
+          <mj-text mj-class="T16-700 cT1">Le grand jour approche à grands pas, mais pas de panique, la clé de la réussite repose avant tout sur une bonne préparation. Voici nos astuces pour aborder cette étape avec confiance et sérénité.</mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding="0">
@@ -90,7 +90,7 @@
           <mj-text padding="0px" mj-class="T16-400 cT0">Identifie les sujets récurrents, les points faibles, et travaille-les en priorité. Utilise tes annales pour t'entraîner dans des conditions proches de l'examen.</mj-text>
         </mj-column>
         <mj-column width="40%" padding="10px">
-          <mj-image padding="0" width="480px" src="https://i.ibb.co/4ZWrC9sY/image01.png"></mj-image>
+          <mj-image padding="0" width="480px" src="https://i.ibb.co/4ZWrC9sY/image01.png"/>
         </mj-column>
       </mj-section>
       <mj-section padding="0" direction="rtl">
@@ -101,7 +101,7 @@
           <mj-text padding="0px" mj-class="T16-400 cT0">Simule des examens, chrono, dans les conditions réelles. Ça te permettra de gérer ton temps et de gagner en confiance.</mj-text>
         </mj-column>
         <mj-column width="40%" padding="10px">
-          <mj-image padding="0" width="480px" src="https://i.ibb.co/jPgLgM6x/image02.png"></mj-image>
+          <mj-image padding="0" width="480px" src="https://i.ibb.co/jPgLgM6x/image02.png"/>
         </mj-column>
       </mj-section>
       <mj-section padding="0">
@@ -112,24 +112,27 @@
           <mj-text padding="0px" mj-class="T16-400 cT0">Visualise ton succès, respire profondément, et rappelle-toi que tu es capable de réussir. La confiance en toi, c'est la moitié du chemin&nbsp;!</mj-text>
         </mj-column>
         <mj-column width="40%" padding="10px">
-          <mj-image padding="0" width="480px" src="https://i.ibb.co/hFfch1Bc/image03.png"></mj-image>
+          <mj-image padding="0" width="480px" src="https://i.ibb.co/hFfch1Bc/image03.png"/>
         </mj-column>
       </mj-section>
     </mj-wrapper>
     <mj-wrapper padding="25px">
-      <mj-section background-color="#ffffff" border-radius="20px" padding="0">
+      <mj-section background-color="#ffffff" border-radius="20px" padding="20px 10px">
         <mj-column width="30%">
           <mj-image src="https://i.ibb.co/HjBF2VJ/ampoule.png"></mj-image>
         </mj-column>
         <mj-column width="70%">
-          <mj-text mj-class="T16-700 cT1">Astuces bonus</mj-text>
-          <mj-text mj-class="T16-400 cT0">Rejoins des groupes d'études pour échanger et t'entraîner ensemble. N'hésite pas à demander de l'aide à tes profs ou à tes proches si tu bloques. Utilise les ressources en ligne pour compléter ta préparation.</mj-text>
+          <mj-text padding="0" mj-class="T16-700 cT1">Astuces bonus</mj-text>
+          <mj-text padding="0" mj-class="T16-400 cT0">Rejoins des groupes d'études pour échanger et t'entraîner ensemble.</mj-text>
+          <mj-text padding="0" mj-class="T16-400 cT0">N'hésite pas à demander de l'aide à tes profs ou à tes proches si tu rencontres une difficulté. </mj-text>
+          <mj-text padding="0" mj-class="T16-400 cT0">Utilise les ressources en ligne pour compléter ta préparation.</mj-text>
         </mj-column>
       </mj-section>
       <mj-section>
         <mj-column>
-          <mj-text mj-class="T16-700 cT1">Petits mantras pour la confiance en soi</mj-text>
-          <mj-text padding="0 25px" align="center" mj-class="T16-400 cT0">Je suis unique et je crois en moi <span style="font-size:20px;line-height:0px;">&#x1F31E;</span>J'ai beaucoup plus de force que je le pense <span style="font-size:20px;line-height:0px">&#x1F31E;</span>Je mérite d'être aimé(e) telle que je suis <span style="font-size:20px;line-height:0px">&#x1F31E;</span>Je peux faire confiance à mon intuition <span style="font-size:20px;line-height:0px;">&#x1F31E;</span>J'ose m'affirmer dans la vérité de mon être <span style="font-size:20px;line-height:0px;">&#x1F31E;</span>Je suis capable de réaliser mes rêves <span style="font-size:20px;line-height:0px;">&#x1F31E;</span>La vie m'aime et me soutient à chaque instant. <span style="font-size:20px;line-height:0px;">&#x1F31E;</span>Mes différences sont une force <span style="font-size:20px;line-height:0px;">&#x1F31E;</span>Je peux prendre ma place en toute sécurité.</mj-text>
+          <mj-text mj-class="T16-700 cT1">Citation inspirante</mj-text>
+          <mj-text padding="0 25px" align="center" mj-class="T16-400 cT0">Cela semble toujours impossible jusqu'à ce que ce soit fait</mj-text>
+          <mj-text padding="0 25px" align="right" mj-class="T13-400 cT0">Nelson Mandela</mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#ffffff" padding="0" border-radius="20px">
