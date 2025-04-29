@@ -18,6 +18,7 @@
       <mj-class name="T36-900" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="36px" line-height="36px" font-weight="900"/>
       <mj-class name="T24-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="700"/>
       <mj-class name="T24-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="300"/>
+      <mj-class name="T18-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="22px" font-weight="700"/>
       <mj-class name="T16-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700"/>
       <mj-class name="T16-500" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="500"/>
       <mj-class name="T16-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="400"/>
@@ -91,7 +92,10 @@
         <mj-column width="60%">
           <mj-text mj-class="T16-700 cT1">1. Organise ton planning de révision&nbsp;:</mj-text>
           <mj-text padding="0px" mj-class="T16-400 cT0">Fais un calendrier clair, répartis tes matières, et n'oublie pas de prévoir des pauses pour rester efficace et motivé(e).</mj-text>
-          <mj-text mj-class="T16-700 cT1">2. Concentre-toi sur l'essentiel&nbsp;:</mj-text>
+          <mj-spacer height="10px"></mj-spacer>
+          <mj-social align="left" padding="0px" mj-class="T18-700 cB0" icon-size="30px" icon-height="30px" inner-padding="0px" mode="horizontal">
+            <mj-social-element src="https://i.ibb.co/Xx1TSHH5/number2.png" alt="numéro 2">&nbsp;&nbsp;Concentre-toi sur l'essentiel&nbsp;</mj-social-element>
+          </mj-social>
           <mj-text padding="0px" mj-class="T16-400 cT0">Identifie les sujets récurrents, les points faibles, et travaille-les en priorité. Utilise tes annales pour t'entraîner dans des conditions proches de l'examen.</mj-text>
         </mj-column>
         <mj-column width="40%" padding="10px">
