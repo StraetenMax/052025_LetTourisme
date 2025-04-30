@@ -90,45 +90,45 @@
       </mj-section>
       <mj-section padding="0">
         <mj-column width="60%">
-          <mj-social align="left" padding="0px" mj-class="T18-700 cB0" text-padding="5px" icon-size="30px" icon-height="30px" inner-padding="0px" mode="horizontal">
-            <mj-social-element src="https://i.ibb.co/v4KNqtN4/number1.png" alt="numéro 1">Organise ton planning de révision&nbsp;:</mj-social-element>
+          <mj-social align="left" padding="0px" mj-class="T18-700 cB0" icon-size="30px" icon-height="30px" inner-padding="0px" mode="horizontal">
+            <mj-social-element padding-right="6px" src="https://i.ibb.co/v4KNqtN4/number1.png" alt="numéro 1">Organise ton planning de révision&nbsp;:</mj-social-element>
           </mj-social>
           <mj-text padding="0px" mj-class="T16-400 cT0">Fais un calendrier clair, répartis tes matières, et n'oublie pas de prévoir des pauses pour rester efficace et motivé(e).</mj-text>
           <mj-spacer height="10px"></mj-spacer>
-          <mj-social align="left" padding="0px" mj-class="T18-700 cB0" text-padding="5px" icon-size="30px" icon-height="30px" inner-padding="0px" mode="horizontal">
-            <mj-social-element src="https://i.ibb.co/Xx1TSHH5/number2.png" alt="numéro 2">Concentre-toi sur l'essentiel&nbsp;</mj-social-element>
+          <mj-social align="left" padding="0px" mj-class="T18-700 cB0" padding-right="5px" icon-size="30px" icon-height="30px" inner-padding="0px" mode="horizontal">
+            <mj-social-element padding-right="6px" src="https://i.ibb.co/Xx1TSHH5/number2.png" alt="numéro 2">Concentre-toi sur l'essentiel&nbsp;</mj-social-element>
           </mj-social>
           <mj-text padding="0px" mj-class="T16-400 cT0">Identifie les sujets récurrents, les points faibles, et travaille-les en priorité. Utilise tes annales pour t'entraîner dans des conditions proches de l'examen.</mj-text>
         </mj-column>
         <mj-column width="40%" padding="10px">
-          <mj-image padding="0" width="480px" src="https://i.ibb.co/4ZWrC9sY/image01.png"/>
+          <mj-image padding="0" width="480px" src="https://i.ibb.co/LD87bGyQ/imgLetT1.png"/>
         </mj-column>
       </mj-section>
       <mj-section padding="0" direction="rtl">
         <mj-column width="60%">
-          <mj-social align="left" padding="0px" mj-class="T18-700 cB0" text-padding="5px" icon-size="30px" icon-height="30px" inner-padding="0px" mode="horizontal">
-            <mj-social-element src="https://i.ibb.co/CfFypTG/number3.png" alt="numéro 3">Adopte des méthodes de révision dynamiques&nbsp;:</mj-social-element>
+          <mj-social align="left" padding="0px" mj-class="T18-700 cB0" icon-size="30px" icon-height="30px" inner-padding="0px" mode="horizontal">
+            <mj-social-element padding-right="6px" src="https://i.ibb.co/CfFypTG/number3.png" alt="numéro 3">Adopte des méthodes de révision dynamiques&nbsp;:</mj-social-element>
           </mj-social>
           <mj-text padding="0px" mj-class="T16-400 cT0">Flashcards, mind maps, vidéos explicatives… Varie les techniques pour ne pas t'ennuyer et mieux mémoriser.</mj-text>
           <mj-spacer height="10px"></mj-spacer>
-          <mj-social align="left" padding="0px" mj-class="T18-700 cB0" text-padding="5px" icon-size="30px" icon-height="30px" inner-padding="0px" mode="horizontal">
-            <mj-social-element src="https://i.ibb.co/Txmms2J6/number4.png" alt="numéro 4">Entraîne-toi aux épreuves&nbsp;:</mj-social-element>
+          <mj-social align="left" padding="0px" mj-class="T18-700 cB0" icon-size="30px" icon-height="30px" inner-padding="0px" mode="horizontal">
+            <mj-social-element padding-right="6px" src="https://i.ibb.co/Txmms2J6/number4.png" alt="numéro 4">Entraîne-toi aux épreuves&nbsp;:</mj-social-element>
           </mj-social>
           <mj-text padding="0px" mj-class="T16-400 cT0">Simule des examens, chrono, dans les conditions réelles. Ça te permettra de gérer ton temps et de gagner en confiance.</mj-text>
         </mj-column>
         <mj-column width="40%" padding="10px">
-          <mj-image padding="0" width="480px" src="https://i.ibb.co/jPgLgM6x/image02.png"/>
+          <mj-image padding="0" width="480px" src="https://i.ibb.co/m5kjHBWz/imgLetT2.png"/>
         </mj-column>
       </mj-section>
       <mj-section padding="0">
         <mj-column width="60%">
-          <mj-social align="left" padding="0px" mj-class="T18-700 cB0" text-padding="5px" icon-size="30px" icon-height="30px" inner-padding="0px" mode="horizontal">
-            <mj-social-element src="https://i.ibb.co/mrrNgzHS/number5.png" alt="numéro 5">Prends soin de toi&nbsp;:</mj-social-element>
+          <mj-social align="left" padding="0px" mj-class="T18-700 cB0" icon-size="30px" icon-height="30px" inner-padding="0px" mode="horizontal">
+            <mj-social-element padding-right="6px" src="https://i.ibb.co/mrrNgzHS/number5.png" alt="numéro 5">Prends soin de toi&nbsp;:</mj-social-element>
           </mj-social>
           <mj-text padding="0px" mj-class="T16-400 cT0">Une bonne alimentation, du sommeil, et un peu d'exercice physique, c'est la clé pour rester concentré(e) et motivé(e).</mj-text>
           <mj-spacer height="10px"></mj-spacer>
-          <mj-social align="left" padding="0px" mj-class="T18-700 cB0" text-padding="5px" icon-size="30px" icon-height="30px" inner-padding="0px" mode="horizontal">
-            <mj-social-element src="https://i.ibb.co/LdPDcrC3/number6.png" alt="numéro 6">Reste positif(ve) et motivé(e)&nbsp;:</mj-social-element>
+          <mj-social align="left" padding="0px" mj-class="T18-700 cB0" icon-size="30px" icon-height="30px" inner-padding="0px" mode="horizontal">
+            <mj-social-element padding-right="6px" src="https://i.ibb.co/LdPDcrC3/number6.png" alt="numéro 6">Reste positif(ve) et motivé(e)&nbsp;:</mj-social-element>
           </mj-social>
           <mj-text padding="0px" mj-class="T16-400 cT0">Visualise ton succès, respire profondément, et rappelle-toi que tu es capable de réussir. La confiance en toi, c'est la moitié du chemin&nbsp;!</mj-text>
         </mj-column>
@@ -155,14 +155,24 @@
         </mj-column>
       </mj-section>
       <mj-section background-color="#ffffff" border-radius="20px" padding="25px" direction="rtl" css-class="ombre"> 
+        <mj-column width="100%">
+          <mj-text padding="0 5px" mj-class="T16-700 cT1">Citation inspirante</mj-text>
+        </mj-column>
         <mj-column width="30%" vertical-align="middle">
           <mj-image padding="5px" width="300px" src="https://i.ibb.co/kss9M2ZX/Nelson-Mandela052025.png" alt="portrait de Nelson Mandela"/>
         </mj-column>
-        <mj-column width="70%" vertical-align="middle">
-          <mj-text padding="0 5px" mj-class="T16-700 cT1">Citation inspirante</mj-text>
-          <mj-text padding="0 5px" align="center" mj-class="T16-400 cT0">Cela semble toujours impossible jusqu'à ce que ce soit fait</mj-text>
-          <mj-text padding="0 5px" align="right" mj-class="T13-400 cT0">Nelson Mandela</mj-text>
-        </mj-column>
+        <mj-group width="70%" vertical-align="middle">
+          <mj-column padding="0 5px" width="15%" vertical-align="top">
+            <mj-image align="left" padding="0" width="140px" src="https://i.ibb.co/Ld3N3G6f/Guillemet1.png"></mj-image>
+          </mj-column>
+          <mj-column width="70%" padding="15px 0">
+            <mj-text align="center" padding="0 5px" mj-class="T18-700 cT0" font-style="italic">Cela semble toujours impossible jusqu'à ce que ce soit fait</mj-text>
+            <mj-text padding="0 5px" align="right" mj-class="T13-400 cT0">Nelson Mandela</mj-text>
+          </mj-column>
+          <mj-column padding="0 5px" width="15%" vertical-align="bottom">
+            <mj-image align="right" padding="0" width="140px" src="https://i.ibb.co/pvBKw8Nx/Guillemet2.png"></mj-image>
+          </mj-column>
+        </mj-group>
       </mj-section>
       <mj-section padding="0px">
         <mj-column>
