@@ -53,17 +53,17 @@
     <mj-section padding="10px 25px">
       <mj-group>
         <mj-column width="70%" vertical-align="middle">
-          <mj-image align="left" padding="0" width="250px" src="https://i.ibb.co/ZpZ2KdKn/News-Letter.png"/>
+          <mj-image align="left" padding="0" width="250px" src="https://i.ibb.co/ZpZ2KdKn/News-Letter.png" alt="logo du Newsletter"/>
           <mj-text align="left" padding="0" padding-top="10px" mj-class="T16-400 cB0" text-transform="uppercase"><span style="font-weight:700;">Ecosup Tourisme</span> - Mai 2025</mj-text>
         </mj-column>
         <mj-column width="30%" vertical-align="middle">
-          <mj-image align="right" padding="0" width="100px" src="https://i.ibb.co/x7Dh8V0/logo-ETourisme.png"/>
+          <mj-image align="right" padding="0" width="100px" src="https://i.ibb.co/x7Dh8V0/logo-ETourisme.png" alt="logo Ecosup-Tourisme"/>
         </mj-column>
       </mj-group>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="100%">
-        <mj-image padding="0" width="600px" src="https://i.ibb.co/j9GmTKkh/Img-Gr-Etudiants-T.png"/>
+        <mj-image padding="0" width="600px" src="https://i.ibb.co/j9GmTKkh/Img-Gr-Etudiants-T.png" alt="Groupe d'étudiants"/>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgB0" padding="0">
@@ -74,81 +74,52 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="25px">
       <mj-column width="30%" vertical-align="middle">
-        <mj-image padding="5px" width="300px" src="https://i.ibb.co/1Y1v70Hj/Camille25052024.png"/>
+        <mj-image padding="5px" width="300px" src="https://i.ibb.co/1Y1v70Hj/Camille25052024.png" alt="Camille, chargée des admissions pour le secteur tourisme"/>
       </mj-column>
       <mj-column width="70%" vertical-align="middle">
         <mj-text padding="0 5px" mj-class="T16-400 cT0"><span style="font-weight:700;">Camille</span>, Chargée des admissions pour le secteur tourisme, vous donne toutes les astuces pour organiser vos révisions&nbsp;!</mj-text>
         <mj-text padding="0 5px" mj-class="T16-400 cT0">Une vraie copilote pour votre avenir professionnel&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
-    <mj-wrapper padding="0 25px" background-color="#ffffff">
+    <mj-wrapper padding="25px">
       <mj-section padding="0">
         <mj-column> 
-          <mj-text mj-class="T24-700 cB0">6 conseils pour un Bac en béton</mj-text>
+          <mj-text mj-class="T24-700 cB0">Les conseils pour un Bac en béton</mj-text>
           <mj-text mj-class="T16-700 cT1">Le grand jour approche à grands pas, mais pas de panique, la clé de la réussite repose avant tout sur une bonne préparation. Voici nos astuces pour aborder cette étape avec confiance et sérénité.</mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding="0">
-        <mj-group width="100%">  
-          <mj-column width="20%" padding="10px">
-            <mj-image align="right" padding="0" width="70px" src="https://i.ibb.co/wF93fyTm/nu1.png"/>
-          </mj-column>
-          <mj-column width="80%" padding="10px">
-            <mj-text padding="0" mj-class="T18-700 cB0">Organise ton planning de révision&nbsp;:</mj-text>
-            <mj-text padding="0" mj-class="T16-400 cT0">Fais un calendrier clair, répartis tes matières, et n'oublie pas de prévoir des pauses pour rester efficace et motivé(e).</mj-text>
-            <mj-spacer height="20px"></mj-spacer>
-          </mj-column>
-        </mj-group>
-        <mj-group width="100%">
-          <mj-column width="20%" padding="10px"> 
-            <mj-image align="right" padding="0" width="70px" src="https://i.ibb.co/prGKQhz6/nu2.png"/>
-          </mj-column>
-          <mj-column width="80%" padding="10px">
-            <mj-text padding="0" mj-class="T18-700 cB0">Concentre-toi sur l'essentiel&nbsp;:</mj-text>
-            <mj-text padding="0" mj-class="T16-400 cT0">Identifie les sujets récurrents, les points faibles, et travaille-les en priorité. Utilise tes annales pour t'entraîner dans des conditions proches de l'examen.</mj-text>
-            <mj-spacer height="20px"></mj-spacer>
-          </mj-column>
-        </mj-group>
-        <mj-group width="100%">
-          <mj-column width="20%" padding="10px">
-            <mj-image align="right" padding="0" width="70px" src="https://i.ibb.co/Y78kMYDP/nu3.png" alt="numéro 3"/>
-          </mj-column>
-          <mj-column width="80%" padding="10px">
-            <mj-text padding="0" mj-class="T18-700 cB0">Adopte des méthodes de révision dynamiques&nbsp;:</mj-text>
-            <mj-text padding="0" mj-class="T16-400 cT0">Flashcards, mind maps, vidéos explicatives… Varie les techniques pour ne pas t'ennuyer et mieux mémoriser.</mj-text>
-            <mj-spacer height="20px"></mj-spacer>
-          </mj-column>
-        </mj-group>
-        <mj-group width="100%">
-          <mj-column width="20%" padding="10px">
-            <mj-image align="right" padding="0" width="70px" src="https://i.ibb.co/ZRcxJtmv/nu4.png"/>
-          </mj-column>
-          <mj-column width="80%" padding="10px">
-            <mj-text padding="0" mj-class="T18-700 cB0">Entraîne-toi aux épreuves&nbsp;:</mj-text>
-            <mj-text padding="0" mj-class="T16-400 cT0">Simule des examens, chrono, dans les conditions réelles. Ça te permettra de gérer ton temps et de gagner en confiance.</mj-text>
-            <mj-spacer height="20px"></mj-spacer>
-          </mj-column>
-        </mj-group>
-        <mj-group width="100%">
-          <mj-column width="20%" padding="10px">
-            <mj-image align="right" padding="0" width="70px" src="https://i.ibb.co/nNfpjcgQ/nu5.png"/>
-          </mj-column>
-          <mj-column width="80%" padding="10px">
-            <mj-text padding="0" mj-class="T18-700 cB0">Prends soin de toi&nbsp;:</mj-text>
-            <mj-text padding="0px" mj-class="T16-400 cT0">Une bonne alimentation, du sommeil, et un peu d'exercice physique, c'est la clé pour rester concentré(e) et motivé(e).</mj-text>
-            <mj-spacer height="20px"></mj-spacer>
-          </mj-column>
-        </mj-group>
-        <mj-group width="100%">
-          <mj-column width="20%" padding="10px">
-            <mj-image align="right" padding="0" width="70px" src="https://i.ibb.co/G4pvphKR/nu6.png"/>
-          </mj-column>
-          <mj-column width="80%" padding="10px">
-            <mj-text padding="0" mj-class="T18-700 cB0">Reste positif(ve) et motivé(e)&nbsp;:</mj-text>
-            <mj-text padding="0" mj-class="T16-400 cT0">Visualise ton succès, respire profondément, et rappelle-toi que tu es capable de réussir. La confiance en toi, c'est la moitié du chemin&nbsp;!</mj-text>
-            <mj-spacer height="45px"></mj-spacer>
-          </mj-column>
-        </mj-group>
+        <mj-column width="60%">
+          <mj-text padding="5px 25px" mj-class="T16-700 cT1">1. Organise ton planning de révision&nbsp;:</mj-text>
+          <mj-text padding="0px" mj-class="T16-400 cT0">Fais un calendrier clair, répartis tes matières, et n'oublie pas de prévoir des pauses pour rester efficace et motivé(e).</mj-text>
+          <mj-text padding="5px 25px" mj-class="T16-700 cT1">2. Concentre-toi sur l'essentiel&nbsp;</mj-text>
+          <mj-text padding="0px" mj-class="T16-400 cT0">Identifie les sujets récurrents, les points faibles, et travaille-les en priorité. Utilise tes annales pour t'entraîner dans des conditions proches de l'examen.</mj-text>
+        </mj-column>
+        <mj-column width="40%" padding="10px">
+          <mj-image padding="0" width="480px" src="https://i.ibb.co/4ZWrC9sY/image01.png" alt="Révision du Bac : organiser un planning"/>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0" direction="rtl">
+        <mj-column width="60%">
+          <mj-text padding="5px 25px" mj-class="T16-700 cT1">3. Adopte des méthodes de révision dynamiques&nbsp;:</mj-text>
+          <mj-text padding="0px" mj-class="T16-400 cT0">Flashcards, mind maps, vidéos explicatives… Varie les techniques pour ne pas t'ennuyer et mieux mémoriser.</mj-text>
+          <mj-text padding="5px 25px" mj-class="T16-700 cT1">4. Entraîne-toi aux épreuves&nbsp;:</mj-text>
+          <mj-text padding="0px" mj-class="T16-400 cT0">Simule des examens, chrono, dans les conditions réelles. Ça te permettra de gérer ton temps et de gagner en confiance.</mj-text>
+        </mj-column>
+        <mj-column width="40%" padding="10px">
+          <mj-image padding="0" width="480px" src="https://i.ibb.co/jPgLgM6x/image02.png" alt="Révision du Bac : s'entrainer aux épreuves"/>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column width="60%">
+          <mj-text padding="5px 25px" mj-class="T16-700 cT1">5. Prends soin de toi&nbsp;:</mj-text>
+          <mj-text padding="0px" mj-class="T16-400 cT0">Une bonne alimentation, du sommeil, et un peu d'exercice physique, c'est la clé pour rester concentré(e) et motivé(e).</mj-text>
+          <mj-text padding="5px 25px" mj-class="T16-700 cT1">6. Reste positif(ve) et motivé(e)&nbsp;:</mj-text>
+          <mj-text padding="0px" mj-class="T16-400 cT0">Visualise ton succès, respire profondément, et rappelle-toi que tu es capable de réussir. La confiance en toi, c'est la moitié du chemin&nbsp;!</mj-text>
+        </mj-column>
+        <mj-column width="40%" padding="10px">
+          <mj-image padding="0" width="480px" src="https://i.ibb.co/hFfch1Bc/image03.png" alt="Révision du Bac : rester positif(ve) et motivé(e)  "/>
+        </mj-column>
       </mj-section>
     </mj-wrapper>
     <mj-wrapper padding="25px">
@@ -174,13 +145,13 @@
         </mj-column>
         <mj-group width="70%" vertical-align="middle">
           <mj-column padding="0 5px" width="15%" vertical-align="top">
-            <mj-image align="left" padding="0" width="140px" src="https://i.ibb.co/Ld3N3G6f/Guillemet1.png"></mj-image>
+            <mj-image align="left" padding="0" width="140px" src="https://i.ibb.co/Ld3N3G6f/Guillemet1.png" alt="guillemet gauche"/>
           </mj-column>
           <mj-column width="70%" padding="15px 0">
             <mj-text align="center" padding="0 5px" mj-class="T18-700 cT0" font-style="italic">Cela semble toujours impossible jusqu'à ce que ce soit fait</mj-text>
           </mj-column>
           <mj-column padding="0 5px" width="15%" vertical-align="bottom">
-            <mj-image align="right" padding="0" width="140px" src="https://i.ibb.co/pvBKw8Nx/Guillemet2.png"></mj-image>
+            <mj-image align="right" padding="0" width="140px" src="https://i.ibb.co/pvBKw8Nx/Guillemet2.png" alt="guillemet droit"></mj-image>
           </mj-column>
         </mj-group>
         <mj-column width="100%" vertical-align="middle" padding-top="10px">
@@ -194,7 +165,7 @@
       </mj-section>
       <mj-section background-color="#ffffff" padding="25px" border-radius="20px" css-class="ombre">
         <mj-column width="30%" vertical-align="middle">
-          <mj-image padding="5px" width="300px" src="https://i.ibb.co/1Y1v70Hj/Camille25052024.png"/>
+          <mj-image padding="5px" width="300px" src="https://i.ibb.co/1Y1v70Hj/Camille25052024.png" alt="Camille responsable des admissions"/>
         </mj-column>
         <mj-column width="70%" vertical-align="middle">
           <mj-text padding="0 5px" mj-class="T16-400 cT0">Croyez en vous, restez curieux, et n'oubliez pas&nbsp;: le bac n'est qu'une étape, à vous d'imaginer la suite.</mj-text>
