@@ -28,8 +28,8 @@
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
       <mj-class name="cB" color="#ffffff"/>
-      <mj-class name="cB0" color="#1f3c90"/>
-      <mj-class name="bgB0" background-color="#1f3c90"/>
+      <mj-class name="cB0" color="#0d3abc"/>
+      <mj-class name="bgB0" background-color="#0d3abc"/>
       <mj-class name="cB-1" color="#787fbd"/>
       <mj-class name="bgB-1" background-color="#787fbd"/>
       <mj-class name="cB+1" color="#423f64"/>
@@ -66,7 +66,7 @@
         <mj-image padding="0" width="600px" src="https://i.ibb.co/j9GmTKkh/Img-Gr-Etudiants-T.png" alt="Groupe d'étudiants"/>
       </mj-column>
     </mj-section>
-    <mj-section mj-class="bgB0" padding="0">
+    <mj-section mj-class="bgB+2" padding="0">
       <mj-column>
         <mj-text mj-class="T24-700" color="#ffffff" padding-bottom="0"> Prêts pour le Bac 2025&nbsp;?</mj-text>
         <mj-text mj-class="T24-700" color="#ffffff" padding-top="0"> On vous donne toutes les clés pour réussir&nbsp;!</mj-text>
@@ -154,9 +154,9 @@
         </mj-column>
         <mj-column width="70%">
           <mj-text padding="0 5px" mj-class="T16-700 cT1">Astuces bonus</mj-text>
-          <mj-text padding="0 5px" mj-class="T16-400 cT0"><span style="color:#787fbd;">&#x27A4;</span> Rejoins des groupes d'études pour échanger et t'entraîner ensemble.</mj-text>
-          <mj-text padding="0 5px" mj-class="T16-400 cT0"><span style="color:#787fbd;">&#x27A4;</span> N'hésite pas à demander de l'aide à tes profs ou à tes proches si tu rencontres une difficulté. </mj-text>
-          <mj-text padding="0 5px" mj-class="T16-400 cT0"><span style="color:#787fbd;">&#x27A4;</span> Utilise les ressources en ligne pour compléter ta préparation.</mj-text>
+          <mj-text padding="0 5px" mj-class="T16-400 cT0"><span style="color:#46e7df;">&#x27A4;</span> Rejoins des groupes d'études pour échanger et t'entraîner ensemble.</mj-text>
+          <mj-text padding="0 5px" mj-class="T16-400 cT0"><span style="color:#46e7df;">&#x27A4;</span> N'hésite pas à demander de l'aide à tes profs ou à tes proches si tu rencontres une difficulté. </mj-text>
+          <mj-text padding="0 5px" mj-class="T16-400 cT0"><span style="color:#46e7df;">&#x27A4;</span> Utilise les ressources en ligne pour compléter ta préparation.</mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding="0px">
